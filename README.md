@@ -1,2 +1,2 @@
-# myrojects
+# myprojects
 Final Year Project
